@@ -1,0 +1,18 @@
+{
+  "name": "BioMapaBrasil — Biodiversidade amazônica em evidência",
+  "short_name": "BioMapaBrasil",
+  "description": "Prova de conceito de uma plataforma territorial para conectar organismos, bioativos, ensaios e fontes científicas.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f9f2",
+  "theme_color": "#0e6b45",
+  "icons": [
+    {
+      "src": "assets/biomapabrasil-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

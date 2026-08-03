@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Se você utilizar esta prova de conceito, cite-a conforme os metadados abaixo."
+title: "BioMapaBrasil: biodiversidade amazônica em evidência"
+type: software
+version: 0.4.0
+date-released: 2026-08-03
+authors:
+  - family-names: "Francisco"
+    given-names: "Aleff Ferreira"
+repository-code: "https://github.com/aleff-ferreira/biomapabrasil"
+url: "https://aleff-ferreira.github.io/biomapabrasil/"
+abstract: >-
+  Prova de conceito de uma plataforma territorial destinada a conectar organismos
+  amazônicos, bioativos, condições experimentais, resultados e fontes científicas
+  rastreáveis.
+keywords:
+  - biodiversidade amazônica
+  - produtos naturais
+  - bioativos
+  - bioprospecção
+  - procedência do material
+  - informática da biodiversidade
+license: MIT
