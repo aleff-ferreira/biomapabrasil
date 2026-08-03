@@ -1,7 +1,9 @@
 # BioMapaBrasil
 
 <p align="center">
-  <img src="assets/biomapabrasil-mark.svg" width="92" alt="Marca do BioMapaBrasil">
+  <a href="https://aleff-ferreira.github.io/biomapabrasil/">
+    <img src="assets/social-preview.png" width="100%" alt="BioMapaBrasil — Biodiversidade amazônica em evidência">
+  </a>
 </p>
 
 <p align="center"><strong>Biodiversidade amazônica em evidência</strong><br>
@@ -13,6 +15,11 @@ Plataforma territorial para conectar organismos, bioativos, ensaios e fontes cie
   <a href="docs/SCIENTIFIC_SCOPE.md">Escopo científico</a>
   ·
   <a href="docs/ARCHITECTURE.md">Arquitetura</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/aleff-ferreira/biomapabrasil/actions/workflows/pages.yml"><img src="https://github.com/aleff-ferreira/biomapabrasil/actions/workflows/pages.yml/badge.svg" alt="Publicação da demonstração"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/licença-MIT-0b6b45.svg" alt="Licença MIT"></a>
 </p>
 
 > **Prova de conceito.** Esta versão demonstra a experiência de consulta e o modelo de organização da evidência propostos para o BioMapaBrasil. Os dez registros apresentados permitem testar a navegação, mas não constituem uma base exaustiva nem um recurso para decisão clínica ou regulatória.
