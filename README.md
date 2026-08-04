@@ -62,6 +62,7 @@ A prova de conceito foi implementada como uma aplicação estática autocontida:
 - navegação por teclado, estados de foco e alternativa tabular ao mapa;
 - temas claro e escuro e respeito à preferência por movimento reduzido;
 - dados e imagens demonstrativos incorporados ao próprio arquivo;
+- superfície orbital e relevo distribuídos como recursos locais, com procedência e licenças registradas;
 - exportação local em CSV;
 - ausência de cookies, rastreadores e coleta de dados pessoais;
 - publicação reproduzível por GitHub Actions e GitHub Pages.
@@ -84,8 +85,9 @@ Abra `index.html` em um navegador moderno. Para testar em um servidor local, uti
 ```text
 .
 ├── index.html                    # prova de conceito executável
-├── assets/                       # identidade visual e prévia social
+├── assets/                       # identidade visual, prévia social e rasters cartográficos
 ├── docs/ARCHITECTURE.md          # decisões técnicas e evolução prevista
+├── docs/BIOMAPABRASIL_PLATAFORMA_v5_RELATORIO.md # relatório da atualização visual
 ├── docs/SCIENTIFIC_SCOPE.md      # escopo, interpretação e limitações
 ├── CITATION.cff                  # citação do software
 ├── NOTICE.md                     # fontes e atribuições
