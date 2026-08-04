@@ -18,7 +18,7 @@ Os registros não foram concebidos como amostra representativa da biodiversidade
 
 As classes L1 a L4, Q e Ø descrevem o grau de documentação disponível para reutilização:
 
-- **L4:** fonte primária ligada a voucher ou material testemunho;
+- **L4:** fonte primária ligada a material de referência depositado em coleção científica, permitindo o reexame da identificação taxonômica;
 - **L3:** fonte primária e contexto experimental recuperáveis;
 - **L2:** síntese ou base agregadora que exige retorno à fonte original;
 - **L1:** menção com contexto insuficiente;
